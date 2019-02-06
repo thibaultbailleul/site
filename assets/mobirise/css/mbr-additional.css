@@ -4590,6 +4590,24 @@ body {
 .cid-r9WXQ6ksUq {
   background-image: url("../../../assets/images/gif-2.gif");
 }
+.cid-rhjB6sSJSX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rhjB6sSJSX .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rhjB6sSJSX .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rhjB6sSJSX .mbr-text {
+  color: #767676;
+}
 .cid-r9WYkKYE7P {
   background-image: url("../../../assets/images/cv-1920x952.jpg");
 }
